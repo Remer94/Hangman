@@ -40,7 +40,7 @@ void printMenu(char choice[],char path[],char input[])
     system("clear");
     printf("********************************\n");
     printf("*                              *\n");
-    printf("*       type quit to quit      *\n");
+    printf("*          Hang Man            *\n");
     printf("*                              *\n");
     printf("*        **************        *\n");
     printf("*        *   Play     *        *\n");
