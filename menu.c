@@ -40,14 +40,14 @@ void printMenu(char choice[],char path[],char input[])
     system("clear");
     printf("********************************\n");
     printf("*                              *\n");
-    printf("*          Hang Man            *\n");
+    printf("*          Hang Man!            *\n");
     printf("*                              *\n");
     printf("*        **************        *\n");
-    printf("*        *   Play     *        *\n");
+    printf("*        *   Play!     *        *\n");
     printf("*        **************        *\n");
     printf("*                              *\n");
     printf("*        **************        *\n");
-    printf("*        *  Settings  *        *\n");
+    printf("*        *  Settings!  *        *\n");
     printf("*        **************        *\n");
     printf("*                              *\n");
     printf("*                              *\n");
